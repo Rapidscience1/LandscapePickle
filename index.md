@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<title>Pickle Landscape LLC.</title>
+</head>
+<body>
 
-You can use the [editor on GitHub](https://github.com/Rapidscience1/LandscapePickle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Pickle Landscaping </h1>
+<p>Hi, my name is Evan and I am a local high schooler who is currently doing landscaping jobs locally here in West Hartford. I mostly will service for lawn mowing but additional jobs can be taken upon request.</p>
+    
+<h3>Current services that are offered (Seasonal)</h3>
+    <ul>Lawn Mowing</ul>
+    <ul>Raking</ul>
+    <ul>Trimming</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Pricing</h3>
+    <p>Prices will vary depending on the size of the lot and also the type that is required, however, the average job for mowing will run in the range between $30 - $35.</p>
+    <p>In terms of payments, I accept cash or check, as well as Venmo and Paypal.</p>
+    <p>Finally, if you want to donate to help support my small business, donations are always appreciated as new equipment can be expensive!  <a href="https://www.buymeacoffee.com/Evanthepickle">Donate!</a></p>
+    
 
-### Markdown
+    <h3>Interested in these services?</h3>
+    <p>Submit a request through this Google form below</p>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf25qmNvrihFy0iKCS-Fb6TOTWHFwZMfdawJz94iL2uhpBhGQ/viewform?embedded=true" width="640" height="1359" frameborder="0" marginheight="0" marginwidth="0">Google Form</iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rapidscience1/LandscapePickle/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    
+</body>
+</html>
